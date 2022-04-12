@@ -12,7 +12,7 @@
 }
 
 body {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: 400;
     letter-spacing: 0.03em;
     color: var(--text-color)
@@ -25,7 +25,7 @@ body {
     background-color: var(--white-color);
 }
 .logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
@@ -95,16 +95,6 @@ background: #2F303A;
 .hero {
     background-color: #2F303A; }
 /* *************************** позже уберу, чтобы было видно h1 ***************************** */
-
-.features, 
-.services {
-    background-color: #E5E5E5;
-
-}
-
-.employees {
-    background-color: #F5F4FA;
-}
 
 
 .hero-title {
@@ -192,9 +182,5 @@ color: var(--titlt-color);
 .work-view {
 font-size: 16px;
 line-height: 1.9;
-}
-
-main {
-    background-color: #E5E5E5;
 }
 
