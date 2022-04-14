@@ -79,7 +79,7 @@ color: var(--accent-color);
     color: var(--white-color);
 }
 
-.address-text span {
+.address > .contacts {
     color: rgba(255, 255, 255, 0.6);
 }
 
